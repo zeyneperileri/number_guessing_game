@@ -33,3 +33,5 @@ def number_guessing_game():
                 print("Congrats, you have found it!")
                 break
 
+number_guessing_game()
+
